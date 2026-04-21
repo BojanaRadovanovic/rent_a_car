@@ -1,0 +1,13 @@
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\bin\Debug\TVP2_rentAcar.exe.config
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\bin\Debug\TVP2_rentAcar.exe
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\bin\Debug\TVP2_rentAcar.pdb
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.DodajRez.resources
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.DodajVozilo.resources
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.Form1.resources
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.Izvestaj.resources
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.exe
+C:\Users\Korisnik\Desktop\II_projekat_NRT_146_23\TVP2_rentAcar\TVP2_rentAcar\obj\Debug\TVP2_rentAcar.pdb
